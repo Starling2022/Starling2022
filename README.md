@@ -49,7 +49,7 @@
 -   ⚜️ My name is Nguyễn Hoàng Long.
 -   ❤️‍🔥 13/06/200?
 -   💬 My nickname is Starling
--   💬 My rela is ?
+-   💬 My rela is Dang Nguyen Anh(200?)
 -   💓 Relationship: Hẹn hò
 -   🍁 Profile: [Facebook](https://www.facebook.com/WHLongg)
 -   🍀 Describe yourself: Change - Challenge - Champion!

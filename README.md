@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/WHLongg">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCNK_WugSVHOSAIPKr2epEOQ">
+<a href="https://www.youtube.com/channel/UCM6SBgTtPDhDjQ0Tds2LlZQ">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -25,15 +25,12 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.facebook.com/NHD.JRT.262" target="blank"><img align="center"
+  <a href="https://www.facebook.com/WHLongg" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="load" height="30" width="40" /></a> 
-  <a href="https://instagram.com/hd.jrt.2k3" target="blank"><img align="center"
+  <a href="https://www.instagram.com/whlongg08/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="load" height="30" width="40" /></a> 
- <a href="https://twitter.com/JrtOffcial" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Arsyad Al Zikri" height="30" width="40" /></a> 
 </p>
 
 <p align="center">
@@ -41,7 +38,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Starling2022&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
 <br>
 
@@ -52,7 +49,7 @@
 -   ⚜️ My name is Nguyễn Hoàng Long.
 -   ❤️‍🔥 13/06/200?
 -   💬 My nickname is Starling
--   💬 My rela is DangNguyenAnh
+-   💬 My rela is ?
 -   💓 Relationship: Hẹn hò
 -   🍁 Profile: [Facebook](https://www.facebook.com/WHLongg)
 -   🍀 Describe yourself: Change - Challenge - Champion!
@@ -70,7 +67,7 @@
 <p align="center"> 
 &nbsp; <a href="https://github.com/Starling2022" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://www.facebook.com/WHLongg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:lehonguyen2k3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="mailto:nhl08.contact@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
 <br>
 <a href="#" target="_blank">

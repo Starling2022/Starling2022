@@ -49,7 +49,7 @@
 -   ⚜️ My name is Nguyễn Hoàng Long.
 -   ❤️‍🔥 13/06/200?
 -   💬 My nickname is Starling
--   💬 My rela is Dang Nguyen Anh(200?)
+-   💬 My rela is ?
 -   💓 Relationship: Hẹn hò
 -   🍁 Profile: [Facebook](https://www.facebook.com/WHLongg)
 -   🍀 Describe yourself: Change - Challenge - Champion!
@@ -60,6 +60,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Starling2022&include_all_commits=true&count_private=true&show_icons=true&custom_title=Starling2022&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
 
+<p align="center"><img src="./languages.svg"></p>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![Hello](hello.svg)
